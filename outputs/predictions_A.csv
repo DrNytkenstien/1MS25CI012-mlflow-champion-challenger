@@ -9,3 +9,12 @@ A truly delightful experience from start to finish.,POSITIVE,POSITIVE,0.9999,Tru
 The app keeps crashing every time I try to open it.,NEGATIVE,NEGATIVE,0.9965,True
 I'm extremely satisfied with the quality of this jacket.,POSITIVE,POSITIVE,0.9997,True
 "Terrible quality, it fell apart after just one wash.",NEGATIVE,NEGATIVE,0.9998,True
+text,,POSITIVE,0.9943,False
+The battery life on this laptop easily lasts through a full workday.,,NEGATIVE,0.9878,False
+I waited forty minutes for cold food and the waiter never apologized.,,POSITIVE,0.9863,False
+Setup took less than five minutes and the interface is super intuitive.,,POSITIVE,0.9981,False
+The fabric feels cheap and started tearing at the seams immediately.,,NEGATIVE,0.9991,False
+Customer support resolved my billing issue politely within minutes.,,NEGATIVE,0.9778,False
+I regret buying this; it disconnects from Bluetooth every few seconds.,,NEGATIVE,0.9975,False
+"Clean design, snappy performance, and great value for the price.",,POSITIVE,0.9999,False
+The instructions were confusing and half the screws were missing.,,NEGATIVE,0.9997,False

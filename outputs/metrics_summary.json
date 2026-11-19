@@ -1,0 +1,32 @@
+{
+    "decision": {
+        "primary_metric": "macro_f1",
+        "margin": 0.02,
+        "winner": "A",
+        "reason": "Champion retained (delta macro_f1 = +0.0000, margin required = 0.02, latency ratio = 9.87x)."
+    },
+    "models": {
+        "A": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "macro_f1": 1.0,
+            "avg_latency_ms": 6.1,
+            "total_inference_s": 0.061,
+            "hf_model_id": "distilbert-base-uncased-finetuned-sst-2-english",
+            "run_id": "c2257deae8e34660a80820402c29e4ff",
+            "model_uri": "runs:/c2257deae8e34660a80820402c29e4ff/model"
+        },
+        "B": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "macro_f1": 1.0,
+            "avg_latency_ms": 60.22,
+            "total_inference_s": 0.6022,
+            "hf_model_id": "siebert/sentiment-roberta-large-english",
+            "run_id": "9c06042f15a14f6894b0c326b3b86fd8",
+            "model_uri": "runs:/9c06042f15a14f6894b0c326b3b86fd8/model"
+        }
+    }
+}
