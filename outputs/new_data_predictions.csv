@@ -1,0 +1,9 @@
+input,prediction,confidence,model_version,hf_model_id
+The battery life on this laptop easily lasts through a full workday.,NEGATIVE,0.9878,v1,distilbert-base-uncased-finetuned-sst-2-english
+I waited forty minutes for cold food and the waiter never apologized.,POSITIVE,0.9863,v1,distilbert-base-uncased-finetuned-sst-2-english
+Setup took less than five minutes and the interface is super intuitive.,POSITIVE,0.9981,v1,distilbert-base-uncased-finetuned-sst-2-english
+The fabric feels cheap and started tearing at the seams immediately.,NEGATIVE,0.9991,v1,distilbert-base-uncased-finetuned-sst-2-english
+Customer support resolved my billing issue politely within minutes.,NEGATIVE,0.9778,v1,distilbert-base-uncased-finetuned-sst-2-english
+I regret buying this; it disconnects from Bluetooth every few seconds.,NEGATIVE,0.9975,v1,distilbert-base-uncased-finetuned-sst-2-english
+"Clean design, snappy performance, and great value for the price.",POSITIVE,0.9999,v1,distilbert-base-uncased-finetuned-sst-2-english
+The instructions were confusing and half the screws were missing.,NEGATIVE,0.9997,v1,distilbert-base-uncased-finetuned-sst-2-english
