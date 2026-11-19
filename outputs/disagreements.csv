@@ -1,0 +1,11 @@
+input,reference,model_A_pred,model_B_pred,models_disagree
+The food was absolutely amazing and I loved the ambiance.,POSITIVE,POSITIVE,POSITIVE,False
+This is the worst customer service I have ever experienced.,NEGATIVE,NEGATIVE,NEGATIVE,False
+"I am so thrilled with my new phone, it works perfectly.",POSITIVE,POSITIVE,POSITIVE,False
+The movie was incredibly boring and a waste of time.,NEGATIVE,NEGATIVE,NEGATIVE,False
+"Highly recommend this shop, they are super fast and friendly.",POSITIVE,POSITIVE,POSITIVE,False
+My package arrived broken and the support team is ignoring me.,NEGATIVE,NEGATIVE,NEGATIVE,False
+A truly delightful experience from start to finish.,POSITIVE,POSITIVE,POSITIVE,False
+The app keeps crashing every time I try to open it.,NEGATIVE,NEGATIVE,NEGATIVE,False
+I'm extremely satisfied with the quality of this jacket.,POSITIVE,POSITIVE,POSITIVE,False
+"Terrible quality, it fell apart after just one wash.",NEGATIVE,NEGATIVE,NEGATIVE,False
